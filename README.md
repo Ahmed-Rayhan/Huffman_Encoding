@@ -1,6 +1,6 @@
 # Huffman Encoding for Image Compression
 
-This MATLAB code implements Huffman encoding for image compression, providing intermediate steps and visualizations to aid understanding.
+This MATLAB code implements Huffman encoding for image compression, providing intermediate steps and visualizations to aid understanding. I wrote this code for better understanding of huffman image compression that was taught in my Multimedia Communication Course 
 
 ## Initialization and Image Reading
 
